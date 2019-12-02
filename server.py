@@ -1,4 +1,4 @@
-#!/usr/bin/env python-NEW OWNER whats going on
+#!/usr/bin/env python-NEW OWNER
 from pycomm.ab_comm.slc import Driver as SlcDriver
 import logging
 import threading
